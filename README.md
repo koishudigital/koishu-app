@@ -1,2 +1,2 @@
-# rapidgo-app
+# Rapidgo-app
 App code for Koishu
